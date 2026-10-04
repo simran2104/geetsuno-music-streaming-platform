@@ -26,7 +26,7 @@ decorator==4.4.1
 defusedxml==0.6.0
 distlib==0.3.2
 dj-database-url==0.5.0
-Django==3.1.14
+Django==5.2.17
 django-allauth==65.14.1
 django-crispy-forms==1.9.1
 django-debug-toolbar==2.2.1
