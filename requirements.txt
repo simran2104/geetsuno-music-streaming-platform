@@ -132,7 +132,7 @@ PyGetWindow==0.0.9
 Pygments==2.20.0
 pyjokes==0.6.0
 pyjsparser==2.7.1
-PyJWT==2.4.0
+PyJWT==2.15.0
 PyMsgBox==1.0.9
 PyMySQL==0.9.3
 pyparsing==2.4.7
