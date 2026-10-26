@@ -110,7 +110,7 @@ pandocfilters==1.4.3
 parso==0.8.2
 pathspec==0.8.1
 pickleshare==0.7.5
-Pillow==12.3.0
+Pillow==13.0.0
 pipenv==2022.1.8
 pipwin==0.5.1
 pluggy==0.13.1
